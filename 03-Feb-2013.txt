@@ -1,0 +1,6 @@
+1) Menu start game , options , exit.
+2) start game - > Player name
+3) Welcome playername 
+4) level 0 snakes games.
+
+ 
